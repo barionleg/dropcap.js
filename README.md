@@ -9,7 +9,7 @@ Original platform by Adobe was last archived at the middle of 2017 (see archived
 
 [http://webplatform.adobe.com/dropcap.js/](https://web.archive.org/web/20171224043653/http://webplatform.adobe.com/dropcap.js/dropcap-demo.html)
 
-All online webbAPps are created by Aibolem barionleg. Contact via FACEBOOK group  **[classicmusica](https://www.facebook.com/groups/classicmusica/)** __[member/creator Georgien.fr](https://www.facebook.com/groups/1463292442130600/user/100064167787471)__ 
+All online webbAPps are created by Aibolem barionleg. Contact via FACEBOOK group  **[classicmusica](https://www.facebook.com/groups/classicmusica/)** _[member/creator Georgien.fr](https://www.facebook.com/groups/1463292442130600/user/100064167787471)_
 
 [Group list](https://www.facebook.com/groups/classicmusica/people)
 
