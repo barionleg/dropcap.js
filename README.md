@@ -15,6 +15,12 @@ _[member/creator Georgien.fr](https://www.facebook.com/groups/1463292442130600/u
 
 [Group list](https://www.facebook.com/groups/classicmusica/people)
 
+## [read more on dropcap.js wiki](https://github.com/barionleg/dropcap.js/wiki)
+
+___
+___
+
+
 ## Why
 Though drop caps are very common in magazines and books, they remain rare on the web. We believe this is because doing it right simply and reliably is too difficult. A simple CSS float:left on a ::first-letter pseudo-element is not enough, as this [tumblr][tumblr] shows. This [blog post][blog] explains some of the challenges of defining drop caps in CSS today.
 
