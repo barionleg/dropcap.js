@@ -1,7 +1,17 @@
 dropcap.js
 ===========
 
-dropcap.js makes beautiful drop caps easy for the web. Try it out at [http://webplatform.adobe.com/dropcap.js/](http://webplatform.adobe.com/dropcap.js/)
+dropcap.js makes beautiful drop caps easy for the web. Try it out at https://barionleg.github.io/dropcap.js/dropcap-demo-translit.html 
+
+or even start here: https://barionleg.github.io/dropcap.js/
+
+Original platform by Adobe was last archived at the middle of 2017 (see archived version):
+
+[http://webplatform.adobe.com/dropcap.js/](https://web.archive.org/web/20171224043653/http://webplatform.adobe.com/dropcap.js/dropcap-demo.html)
+
+All online webbAPps are created by Aibolem barionleg. Contact via FACEBOOK group  **[classicmusica](https://www.facebook.com/groups/classicmusica/)** __[member/creator Georgien.fr](https://www.facebook.com/groups/1463292442130600/user/100064167787471)__ 
+
+[Group list](https://www.facebook.com/groups/classicmusica/people)
 
 ## Why
 Though drop caps are very common in magazines and books, they remain rare on the web. We believe this is because doing it right simply and reliably is too difficult. A simple CSS float:left on a ::first-letter pseudo-element is not enough, as this [tumblr][tumblr] shows. This [blog post][blog] explains some of the challenges of defining drop caps in CSS today.
