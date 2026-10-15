@@ -20,4 +20,7 @@ An example of [Nuskhur](https://ka.wikipedia.org/wiki/ნუსხური) scr
 
 https://barionleg.github.io/dropcap.js/kodbook/language-list-293.html
 
-<img width="190" height="540" alt="image" src="https://github.com/user-attachments/assets/3bc73a97-ff87-437f-8d5c-b0fbe959ca96" />
+<img width="604" height="505" alt="image" src="https://github.com/user-attachments/assets/d17532de-3627-4345-a343-fcb010483eac" />
+
+
+<!--<img width="190" height="540" alt="image" src="https://github.com/user-attachments/assets/3bc73a97-ff87-437f-8d5c-b0fbe959ca96" />-->
