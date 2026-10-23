@@ -24,3 +24,10 @@ https://barionleg.github.io/dropcap.js/kodbook/language-list-293.html
 
 
 <!--<img width="190" height="540" alt="image" src="https://github.com/user-attachments/assets/3bc73a97-ff87-437f-8d5c-b0fbe959ca96" />-->
+
+# You can Prolongue that work with known to you languages 
+
+https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes
+
+<img width="676" height="540" alt="image" src="https://github.com/user-attachments/assets/f3600c8e-2228-4f42-b1c0-0a9727107456" />
+
