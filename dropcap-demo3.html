@@ -91,7 +91,9 @@ limitations under the License.
             <legend>Drop cap</legend>
             <p>
                 <label for="dcap-font">Font family: </label>
-                <select id="dcap-font" value="Cochin">
+                <select id="dcap-font" value="AcadNusx">
+					<!--  alternative  -->
+				<select id="dcap-font" value="Cochin">	
                     <option>Adobe Caslon Pro</option>
                     <option>Adobe Garamond Pro</option>
                     <option selected>AcadNusx</option>                    
@@ -145,17 +147,23 @@ limitations under the License.
             </p>
             <p>
                 <label for="dcap-height">Height: </label>
-                <input id="dcap-height" type="range" min="1" max="8" step="1" value="4">
+                <input id="dcap-height" type="range" min="1" max="8" step="1" value="2">
+				<!--  alternative -->
+<!--<input id="dcap-height" type="range" min="1" max="8" step="1" value="4">-->
                 <span  class="value" id="dcap-height-val"></span>
             </p>
             <p>
                 <label for="dcap-baseline-pos">Baseline position: </label>
-                <input id="dcap-baseline-pos" type="range" min="1" max="8" step="1" value="4" disabled>
+                <input id="dcap-baseline-pos" type="range" min="1" max="8" step="1" value="1" enabled>
+				<!-- alternative -->
+<!-- <input id="dcap-baseline-pos" type="range" min="1" max="8" step="1" value="4" disabled>-->
                 <span  class="value" id="dcap-baseline-pos-val"></span>
             </p>
             <p>
                 <label for="dcap-lock-height-to-pos">Synch height with position: </label>
-                <input id="dcap-lock-height-to-pos" type="checkbox" checked>
+                <input id="dcap-lock-height-to-pos" type="checkbox">
+				<!-- alternative -->
+<!-- <input id="dcap-lock-height-to-pos" type="checkbox" checked>-->
             </p>
             <p>
                 <label for="dcap-show-float">Show container: </label>
@@ -166,7 +174,9 @@ limitations under the License.
             <legend>Paragraph</legend>
             <p>
                 <label for="para-font">Font family: </label>
-                <select id="para-font" value="Times New Roman">
+                <select id="para-font" value="Georgia">
+					<!-- alternative -->
+				<select id="para-font" value="Times New Roman">	
                     <option>Adobe Caslon Pro</option>
                     <option>Adobe Garamond Pro</option>
                     <option>AcadNusx</option>
